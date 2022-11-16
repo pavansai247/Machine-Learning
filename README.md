@@ -22,7 +22,7 @@ Required Libraries
     
 ## Projects
 
-   1. Income Qualification
+   # 1. Income Qualification
 
    The necessary income and expense records to prove that they qualify or not,the main aim is to 
    the level of income qualification needed for the families in Latin America to buy house.We Build the Machine Learning Models.
@@ -30,7 +30,7 @@ Required Libraries
    Project Dataset:- [Click here](https://github.com/pavansai247/Machine-Learning/tree/main/Income%20Qualification%20Datasets)    Project file:- [Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Income%20Qualification.ipynb)
    
 
-   2. Mercedes Benz
+   # 2. Mercedes Benz
 
    The main aim is to Reduce the time of a Mercedes-Benz spends on the test bench.
    we done the Feature Engginering and Feature Selection and remove the columns where the varance is 
@@ -39,7 +39,7 @@ Required Libraries
    Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/Mercedes-Benz%20Datasets)           Project file:-[Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Mercedes-Benz.ipynb)
 
 
-   3. California House Price
+   # 3. California House Price
      
 Median house prices for California Districts the aimis to predict the 
 house prices of California Districts base on the previous districts prices
