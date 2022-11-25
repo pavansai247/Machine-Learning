@@ -27,7 +27,7 @@ Required Libraries
    The necessary income and expense records to prove that they qualify or not,the main aim is to 
    the level of income qualification needed for the families in Latin America to buy house.We Build the Machine Learning Models.
    
-   Project Details:- [Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Income%20Qualification/Income%20Qual.docx)    Project file:- [Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Income%20Qualification/Income%20Qualification.ipynb)
+   Project Details:- [Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Income%20Qualification/Income%20Qual.docx)    
    
 
    # 2. Mercedes Benz
