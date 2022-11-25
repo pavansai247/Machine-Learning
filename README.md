@@ -36,7 +36,7 @@ Required Libraries
    we done the Feature Engginering and Feature Selection and remove the columns where the varance is 
    equal to 0 and dimensionality reduction also done and the model selection
 
-   Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/Mercedes-Benz%20Datasets)           Project file:-[Click here](https://github.com/pavansai247/Machine-Learning/blob/main/Mercedes-Benz.ipynb)
+   Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/Mercedes-Benz%20Datasets)          
 
 
    # 3. California House Price
