@@ -43,7 +43,7 @@ Required Libraries
      
 Median house prices for California Districts the aimis to predict the 
 house prices of California Districts base on the previous districts prices
-we done the Data Analysis part on the dataset know the key points
+we done the Data Analysis part on the dataset know the key points.
 
 Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/California_house_price)      
 ## 🛠 Skills
