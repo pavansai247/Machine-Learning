@@ -34,7 +34,7 @@ Required Libraries
 
    The main aim is to Reduce the time of a Mercedes-Benz spends on the test bench.
    we done the Feature Engginering and Feature Selection and remove the columns where the varance is 
-   equal to 0 and dimensionality reduction also done and the model selection
+   equal to 0 and dimensionality reduction also done and the model selection.
 
    Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/Mercedes-Benz%20Datasets)          
 
