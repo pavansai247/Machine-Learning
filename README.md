@@ -47,6 +47,8 @@ we done the Data Analysis part on the dataset know the key points.
 
 Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tree/main/California_house_price)      
 ## 🛠 Skills
+1. Statistical-Analysis
+
 1. Data-Analysis 
 
 2.Machine Learning Algotherms
