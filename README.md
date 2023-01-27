@@ -49,11 +49,11 @@ Project Dataset:-[Click here](https://github.com/pavansai247/Machine-Learning/tr
 ## 🛠 Skills
 1. Statistical-Analysis
 
-1. Data-Analysis 
+2. Data-Analysis 
 
-2.Machine Learning Algotherms
+3.Machine Learning Algotherms
  
-3.Sklearn
+4.Sklearn
 
 
 ## Documentation
